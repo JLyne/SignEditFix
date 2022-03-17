@@ -1,7 +1,7 @@
 name: SignEditFix
 version: @project.version@
 main: uk.co.notnull.signeditfix.SignEditFix
-api-version: 1.16
+api-version: 1.17
 author: Jim (NotKatuen)
 description: Fix Worldguard failing to block Purpur sign editing
 depend: [ WorldGuard, WorldEdit ]
